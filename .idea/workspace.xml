@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b31f7914-2b80-4d87-8df6-366f0fb84ecb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y70VmvZUVcoDOIUbXvhYZQwDll" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Game" />
+      <module name="gobang" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b31f7914-2b80-4d87-8df6-366f0fb84ecb" name="Default Changelist" comment="" />
+      <created>1582278351350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582278351350</updated>
+      <workItem from="1582278361530" duration="38301000" />
+      <workItem from="1582472141330" duration="594000" />
+      <workItem from="1582532489104" duration="9140000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom" timestamp="1582550242383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582550242383" />
+    <state width="1492" height="223" key="GridCell.Tab.0.center" timestamp="1582550242383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582550242383" />
+    <state width="1492" height="223" key="GridCell.Tab.0.left" timestamp="1582550242383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582550242383" />
+    <state width="1492" height="223" key="GridCell.Tab.0.right" timestamp="1582550242383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1492" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582550242383" />
+    <state x="126" y="65" key="SettingsEditor" timestamp="1582472022911">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="126" y="65" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582472022911" />
+    <state x="370" y="248" key="com.intellij.ide.util.TipDialog" timestamp="1582532498359">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="370" y="248" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1582532498359" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gobang$Game.ic" NAME="Game Coverage Results" MODIFIED="1582384754525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -7,9 +7,9 @@ public class Piece {
     public int y;
 
     public Piece(String color, int x, int y) {
-        if (color == "black") {
+        if (color.equals("black")) {
             this.color = Color.BLACK;
-        } else if (color == "white") {
+        } else if (color.equals("white")) {
             this.color = Color.WHITE;
         }
         this.x = x;
